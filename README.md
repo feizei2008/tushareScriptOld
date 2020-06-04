@@ -1,2 +1,3 @@
 # tushareScriptOld
 一些tushare的脚本，主要实现盘中实时监控股票池涨跌幅
+部分函数可能已经失效
